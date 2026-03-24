@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "ors-sdk"
 dynamic = ["version"]
-description = "Python SDK for the Open Reward Standard (ORS) — an HTTP protocol for connecting AI agents to RL environments"
+description = "Python SDK for the Open Reward Standard (ORS) - an HTTP protocol for connecting AI agents to RL environments"
 readme = "README.md"
 license = "Apache-2.0"
 requires-python = ">=3.10"
@@ -44,7 +44,7 @@ dev = [
 
 [project.urls]
 Homepage = "https://openrewardstandard.io"
-Repository = "https://github.com/openreward/ors-sdk"
+Repository = "https://github.com/openrewardstandard/python-sdk/"
 Documentation = "https://openrewardstandard.io"
 
 [tool.hatch.version]
